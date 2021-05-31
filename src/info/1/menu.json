@@ -1,0 +1,2154 @@
+{
+  "main": [
+    {
+      "key": "d3ed992f-33f8-4ce2-91f1-26486ab9802a",
+      "title": "About",
+      "description": null,
+      "uri": "node/471",
+      "alias": "nolink",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/nolink",
+      "relative": false,
+      "existing": true,
+      "weight": "-50",
+      "expanded": true,
+      "enabled": true,
+      "uuid": "cf289175-5469-4688-874e-2adafcd5a542",
+      "options": {
+        "attributes": {
+          "target": "_blank",
+          "class": [
+            ""
+          ]
+        }
+      },
+      "field_image": [],
+      "bundle": [
+        {
+          "target_id": "main-culinary-arts",
+          "target_type": "menu",
+          "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+        }
+      ],
+      "revision_user": [],
+      "below": [
+        {
+          "key": "b389a63a-81b5-443e-a34b-bd7fc90e64f8",
+          "title": "About CAA",
+          "description": null,
+          "uri": "node/122",
+          "alias": "about-culinary-arts-academy",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/about-culinary-arts-academy",
+          "relative": "/en/about-culinary-arts-academy",
+          "existing": true,
+          "weight": "-50",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "2da6faa3-3fff-435f-aa73-006d2fed2879",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                339
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17 2.png"
+              ],
+              "created": [
+                "2021-04-27T06:14:01+00:00"
+              ],
+              "changed": [
+                "2021-05-17T11:43:20+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 365,
+                  "alt": "About",
+                  "title": "",
+                  "width": 292,
+                  "height": 202,
+                  "target_type": "file",
+                  "target_uuid": "d9caa2eb-f167-46a0-9758-79907bddbb6c",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png?h=1294fa6a",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png?h=1294fa6a",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png?h=1294fa6a",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png?h=1294fa6a",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/2020_CAAS_BROCHURE_KITCHEN_IN-ACTION_17%202.png"
+                }
+              ],
+              "field_revised": [
+                "1"
+              ],
+              "field_type": [
+                "menu"
+              ],
+              "field_web": []
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        },
+        {
+          "key": "1efad381-9a36-42bc-ae10-22ce317f12fd",
+          "title": "Faculty and Research",
+          "description": null,
+          "uri": "node/124",
+          "alias": "faculty",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/about-culinary-arts-academy/chef-instructors-and-teachers",
+          "relative": "/en/about-culinary-arts-academy/chef-instructors-and-teachers",
+          "existing": true,
+          "weight": "-49",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "885f884e-4b9b-4846-ae4f-5d05c3c115f9",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                340
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "CAAS_Le Bouveret_Jerome Loup 04.png"
+              ],
+              "created": [
+                "2021-04-27T06:28:31+00:00"
+              ],
+              "changed": [
+                "2021-05-17T11:40:04+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 366,
+                  "alt": "Faculty and Research",
+                  "title": "",
+                  "width": 291,
+                  "height": 201,
+                  "target_type": "file",
+                  "target_uuid": "535c99ab-5f0e-41d9-bf5b-81299d781771",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png?h=dcd7d13f",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png?h=dcd7d13f",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png?h=dcd7d13f",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png?h=dcd7d13f",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/CAAS_Le%20Bouveret_Jerome%20Loup%2004.png"
+                }
+              ],
+              "field_revised": [
+                "1"
+              ],
+              "field_type": [
+                "menu"
+              ],
+              "field_web": []
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        },
+        {
+          "key": "285dcca2-7d8f-4164-8815-ae5f55541b16",
+          "title": "Partners",
+          "description": null,
+          "uri": "node/125",
+          "alias": "about-culinary-arts-academy/culinary-partners",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/about-culinary-arts-academy/culinary-partners",
+          "relative": "/en/about-culinary-arts-academy/culinary-partners",
+          "existing": true,
+          "weight": "-48",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "e966d2ff-1157-44b4-b04b-81674b8369aa",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                342
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600 1.png"
+              ],
+              "created": [
+                "2021-04-27T06:53:13+00:00"
+              ],
+              "changed": [
+                "2021-05-17T11:43:45+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 369,
+                  "alt": "Partners",
+                  "title": "",
+                  "width": 292,
+                  "height": 202,
+                  "target_type": "file",
+                  "target_uuid": "d608a469-28c2-44ae-825d-b13c9d85bbd2",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png?h=88a31c37",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png?h=88a31c37",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png?h=88a31c37",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png?h=88a31c37",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/2020_CAAS_BROCHURE_IN_CLASS_01_maxWidth_1600_maxHeight_1600%201.png"
+                }
+              ],
+              "field_revised": [
+                "1"
+              ],
+              "field_type": [
+                "menu"
+              ],
+              "field_web": [
+                "3"
+              ]
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        },
+        {
+          "key": "312962e1-cb1e-47f9-985f-d33093f547bf",
+          "title": "Mosimann Collection",
+          "description": null,
+          "uri": "node/123",
+          "alias": "about-culinary-arts-academy/the-mosimann-collection",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/about-culinary-arts-academy/the-mosimann-collection",
+          "relative": "/en/about-culinary-arts-academy/the-mosimann-collection",
+          "existing": true,
+          "weight": "-47",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "998df306-f2e8-4a59-8d0c-b33d82d143ae",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                343
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "nunoacacio_20190307_181311_9029 1.png"
+              ],
+              "created": [
+                "2021-04-27T06:54:13+00:00"
+              ],
+              "changed": [
+                "2021-05-14T11:26:34+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 370,
+                  "alt": "Mosimann Collection",
+                  "title": "",
+                  "width": 295,
+                  "height": 201,
+                  "target_type": "file",
+                  "target_uuid": "c2aeb389-e4ec-468f-840b-ba740f28a4e0",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/nunoacacio_20190307_181311_9029%201.png?h=5f77ff31",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/nunoacacio_20190307_181311_9029%201.png?h=5f77ff31",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/nunoacacio_20190307_181311_9029%201.png?h=5f77ff31",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/nunoacacio_20190307_181311_9029%201.png?h=5f77ff31",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/nunoacacio_20190307_181311_9029%201.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/nunoacacio_20190307_181311_9029%201.png"
+                }
+              ],
+              "field_revised": [
+                "1"
+              ],
+              "field_type": [],
+              "field_web": []
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        }
+      ]
+    },
+    {
+      "key": "d727b6ed-a814-4e90-a370-75a5ff41d6c7",
+      "title": "Programs",
+      "description": null,
+      "uri": "node/471",
+      "alias": "nolink",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/nolink",
+      "relative": false,
+      "existing": true,
+      "weight": "-49",
+      "expanded": true,
+      "enabled": true,
+      "uuid": "cf289175-5469-4688-874e-2adafcd5a542",
+      "options": {
+        "attributes": {
+          "class": [
+            ""
+          ]
+        }
+      },
+      "field_image": [],
+      "bundle": [
+        {
+          "target_id": "main-culinary-arts",
+          "target_type": "menu",
+          "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+        }
+      ],
+      "revision_user": [],
+      "below": [
+        {
+          "key": "45fad3c4-6b5f-4dcd-9217-b3d64e0c199a",
+          "title": "View all the programs",
+          "description": "Our programs",
+          "uri": "node/128",
+          "alias": "culinary-courses",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/culinary-courses",
+          "relative": "/en/culinary-courses",
+          "existing": true,
+          "weight": "-50",
+          "expanded": true,
+          "enabled": true,
+          "uuid": "dd26885e-ed23-401e-9b8d-7a8372bb5dec",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": [],
+          "below": [
+            {
+              "key": "2e8ebff3-9f3c-4d6c-b633-82419d7c43bd",
+              "title": " Bachelor of Arts in Culinary Arts",
+              "description": null,
+              "uri": "node/403",
+              "alias": "culinary-courses/bachelor-degree-in-culinary-arts",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/bachelor-degree-in-culinary-arts",
+              "relative": "/en/culinary-courses/bachelor-degree-in-culinary-arts",
+              "existing": true,
+              "weight": "-50",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "a58d4e3f-aa7f-4f99-a629-2b147c37a2e5",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [
+                {
+                  "mid": [
+                    916
+                  ],
+                  "langcode": [
+                    "en"
+                  ],
+                  "bundle": [
+                    {
+                      "target_id": "image",
+                      "target_type": "media_type",
+                      "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                    }
+                  ],
+                  "status": [
+                    true
+                  ],
+                  "name": [
+                    "menu-caa-bachelor-degree-in-culinary-arts.jpg"
+                  ],
+                  "created": [
+                    "2021-05-14T10:24:37+00:00"
+                  ],
+                  "changed": [
+                    "2021-05-14T10:29:05+00:00"
+                  ],
+                  "default_langcode": [
+                    true
+                  ],
+                  "metatag": {
+                    "value": {
+                      "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                      "title": "| Culinary Arts Academy"
+                    }
+                  },
+                  "field_media_image": [
+                    {
+                      "target_id": 953,
+                      "alt": "Degree in Culinary Arts",
+                      "title": "",
+                      "width": 294,
+                      "height": 161,
+                      "target_type": "file",
+                      "target_uuid": "95f19174-3e8f-4fff-939c-ef628040a440",
+                      "url": "http://caa.drautadev.com/sites/default/files/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg?h=b0e0142d",
+                      "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg?h=b0e0142d",
+                      "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg?h=b0e0142d",
+                      "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg?h=b0e0142d",
+                      "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg",
+                      "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-05/menu-caa-bachelor-degree-in-culinary-arts.jpg"
+                    }
+                  ],
+                  "field_revised": [
+                    "1"
+                  ],
+                  "field_type": [
+                    "menu"
+                  ],
+                  "field_web": [
+                    "3"
+                  ]
+                }
+              ],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            },
+            {
+              "key": "75b4a4de-d495-4221-a91a-790b697e2267",
+              "title": "Diploma in Vegetarian culinary arts",
+              "description": null,
+              "uri": "node/161",
+              "alias": "culinary-courses/diploma-in-vegetarian-culinary-arts",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/diploma-in-vegetarian-culinary-arts",
+              "relative": "/en/culinary-courses/diploma-in-vegetarian-culinary-arts",
+              "existing": true,
+              "weight": "-49",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "8318646d-d48e-427a-abfe-e059b08c1ab4",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [
+                {
+                  "mid": [
+                    915
+                  ],
+                  "langcode": [
+                    "en"
+                  ],
+                  "bundle": [
+                    {
+                      "target_id": "image",
+                      "target_type": "media_type",
+                      "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                    }
+                  ],
+                  "status": [
+                    true
+                  ],
+                  "name": [
+                    "menu-caa-vegeterian-culinary-arts.jpg"
+                  ],
+                  "created": [
+                    "2021-05-14T10:24:37+00:00"
+                  ],
+                  "changed": [
+                    "2021-05-14T10:28:41+00:00"
+                  ],
+                  "default_langcode": [
+                    true
+                  ],
+                  "metatag": {
+                    "value": {
+                      "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                      "title": "| Culinary Arts Academy"
+                    }
+                  },
+                  "field_media_image": [
+                    {
+                      "target_id": 952,
+                      "alt": "Diploma in Vegetarian Culinary Arts. Dish",
+                      "title": "",
+                      "width": 293,
+                      "height": 160,
+                      "target_type": "file",
+                      "target_uuid": "1b89ee50-d295-4499-a43a-743a6de2ade8",
+                      "url": "http://caa.drautadev.com/sites/default/files/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg?h=cf848b95",
+                      "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg?h=cf848b95",
+                      "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg?h=cf848b95",
+                      "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg?h=cf848b95",
+                      "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg",
+                      "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-05/menu-caa-vegeterian-culinary-arts.jpg"
+                    }
+                  ],
+                  "field_revised": [
+                    "1"
+                  ],
+                  "field_type": [
+                    "menu"
+                  ],
+                  "field_web": [
+                    "3"
+                  ]
+                }
+              ],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            },
+            {
+              "key": "4d8f3332-aa02-4846-b9fc-78a8b929cc29",
+              "title": "Master of Arts in Culinary Business Management",
+              "description": null,
+              "uri": "node/405",
+              "alias": "culinary-courses/master-of-arts-in-culinary-business-management",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/master-of-arts-in-culinary-business-management",
+              "relative": "/en/culinary-courses/master-of-arts-in-culinary-business-management",
+              "existing": true,
+              "weight": "-48",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "b5bc6b47-62e4-481c-89d8-a1280c2c11d9",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [
+                {
+                  "mid": [
+                    914
+                  ],
+                  "langcode": [
+                    "en"
+                  ],
+                  "bundle": [
+                    {
+                      "target_id": "image",
+                      "target_type": "media_type",
+                      "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                    }
+                  ],
+                  "status": [
+                    true
+                  ],
+                  "name": [
+                    "menu-caa-master-in-culinary-business-management.jpg"
+                  ],
+                  "created": [
+                    "2021-05-14T10:24:36+00:00"
+                  ],
+                  "changed": [
+                    "2021-05-17T11:44:32+00:00"
+                  ],
+                  "default_langcode": [
+                    true
+                  ],
+                  "metatag": {
+                    "value": {
+                      "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                      "title": "| Culinary Arts Academy"
+                    }
+                  },
+                  "field_media_image": [
+                    {
+                      "target_id": 951,
+                      "alt": "Master in Culinary Business Management",
+                      "title": "",
+                      "width": 292,
+                      "height": 160,
+                      "target_type": "file",
+                      "target_uuid": "d71f9959-8819-410d-8263-ab57b7659816",
+                      "url": "http://caa.drautadev.com/sites/default/files/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-05/menu-caa-master-in-culinary-business-management.jpg?h=ef2f79db",
+                      "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-05/menu-caa-master-in-culinary-business-management.jpg?h=ef2f79db",
+                      "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-05/menu-caa-master-in-culinary-business-management.jpg?h=ef2f79db",
+                      "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-05/menu-caa-master-in-culinary-business-management.jpg?h=ef2f79db",
+                      "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-05/menu-caa-master-in-culinary-business-management.jpg",
+                      "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-05/menu-caa-master-in-culinary-business-management.jpg"
+                    }
+                  ],
+                  "field_revised": [
+                    "1"
+                  ],
+                  "field_type": [
+                    "menu"
+                  ],
+                  "field_web": [
+                    "3"
+                  ]
+                }
+              ],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            },
+            {
+              "key": "13e15b87-b157-402e-8d58-c273f784a071",
+              "title": "Swiss Grand Diploma in Culinary Arts",
+              "description": null,
+              "uri": "node/399",
+              "alias": "culinary-courses/swiss-grand-diploma-in-culinary-arts",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/swiss-grand-diploma-in-culinary-arts",
+              "relative": "/en/culinary-courses/swiss-grand-diploma-in-culinary-arts",
+              "existing": true,
+              "weight": "-47",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "5561b16b-ecb2-4825-aa1a-f68b08876dca",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [
+                {
+                  "mid": [
+                    913
+                  ],
+                  "langcode": [
+                    "en"
+                  ],
+                  "bundle": [
+                    {
+                      "target_id": "image",
+                      "target_type": "media_type",
+                      "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                    }
+                  ],
+                  "status": [
+                    true
+                  ],
+                  "name": [
+                    "menu-caa-grand-diploma-culinary-arts.jpg"
+                  ],
+                  "created": [
+                    "2021-05-14T10:24:36+00:00"
+                  ],
+                  "changed": [
+                    "2021-05-14T11:29:08+00:00"
+                  ],
+                  "default_langcode": [
+                    true
+                  ],
+                  "metatag": {
+                    "value": {
+                      "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                      "title": "| Culinary Arts Academy"
+                    }
+                  },
+                  "field_media_image": [
+                    {
+                      "target_id": 950,
+                      "alt": "Grand Diploma in Culinary Arts",
+                      "title": "",
+                      "width": 293,
+                      "height": 160,
+                      "target_type": "file",
+                      "target_uuid": "90da0f42-2a5c-4c1b-be20-73fe09389e46",
+                      "url": "http://caa.drautadev.com/sites/default/files/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg?h=c8b6cc72",
+                      "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg?h=c8b6cc72",
+                      "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg?h=c8b6cc72",
+                      "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg?h=c8b6cc72",
+                      "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg",
+                      "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-05/menu-caa-grand-diploma-culinary-arts.jpg"
+                    }
+                  ],
+                  "field_revised": [
+                    "1"
+                  ],
+                  "field_type": [
+                    "menu"
+                  ],
+                  "field_web": [
+                    "3"
+                  ]
+                }
+              ],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            },
+            {
+              "key": "8029218f-dd4e-4d98-b18d-8fa99b2f3518",
+              "title": "Swiss Grand Diploma in Pastry & Chocolate Arts",
+              "description": null,
+              "uri": "node/401",
+              "alias": "culinary-courses/swiss-grand-diploma-in-pastry-and-chocolate-arts",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/swiss-grand-diploma-in-pastry-and-chocolate-arts",
+              "relative": "/en/culinary-courses/swiss-grand-diploma-in-pastry-and-chocolate-arts",
+              "existing": true,
+              "weight": "-46",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "eb8c168a-40b5-496f-964f-7f3a9fa1a3e6",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [
+                {
+                  "mid": [
+                    912
+                  ],
+                  "langcode": [
+                    "en"
+                  ],
+                  "bundle": [
+                    {
+                      "target_id": "image",
+                      "target_type": "media_type",
+                      "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                    }
+                  ],
+                  "status": [
+                    true
+                  ],
+                  "name": [
+                    "menu-caa-pastry-and-chocolate-arts.jpg"
+                  ],
+                  "created": [
+                    "2021-05-14T10:24:35+00:00"
+                  ],
+                  "changed": [
+                    "2021-05-14T10:27:08+00:00"
+                  ],
+                  "default_langcode": [
+                    true
+                  ],
+                  "metatag": {
+                    "value": {
+                      "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                      "title": "| Culinary Arts Academy"
+                    }
+                  },
+                  "field_media_image": [
+                    {
+                      "target_id": 949,
+                      "alt": "Pastry and chocolate arts",
+                      "title": "",
+                      "width": 293,
+                      "height": 161,
+                      "target_type": "file",
+                      "target_uuid": "a7e339c1-c7e8-42a7-8b71-3d617e650ca4",
+                      "url": "http://caa.drautadev.com/sites/default/files/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg?h=b0e0142d",
+                      "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg?h=b0e0142d",
+                      "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg?h=b0e0142d",
+                      "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg?h=b0e0142d",
+                      "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg",
+                      "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-05/menu-caa-pastry-and-chocolate-arts.jpg"
+                    }
+                  ],
+                  "field_revised": [
+                    "1"
+                  ],
+                  "field_type": [
+                    "menu"
+                  ],
+                  "field_web": [
+                    "3"
+                  ]
+                }
+              ],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            },
+            {
+              "key": "49ae70c1-68b2-40f5-8dd7-f3bb88b2f08d",
+              "title": "Certificate in Wine Business Management",
+              "description": null,
+              "uri": "node/409",
+              "alias": "culinary-courses/wine-business-management",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/wine-business-management",
+              "relative": "/en/culinary-courses/wine-business-management",
+              "existing": true,
+              "weight": "-45",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "496c4d1c-199c-4939-97c4-efb3e6fbd3e1",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [
+                {
+                  "mid": [
+                    911
+                  ],
+                  "langcode": [
+                    "en"
+                  ],
+                  "bundle": [
+                    {
+                      "target_id": "image",
+                      "target_type": "media_type",
+                      "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                    }
+                  ],
+                  "status": [
+                    true
+                  ],
+                  "name": [
+                    "menu-caa-certificate-wine-business-management.jpg"
+                  ],
+                  "created": [
+                    "2021-05-14T10:24:34+00:00"
+                  ],
+                  "changed": [
+                    "2021-05-14T10:26:33+00:00"
+                  ],
+                  "default_langcode": [
+                    true
+                  ],
+                  "metatag": {
+                    "value": {
+                      "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                      "title": "| Culinary Arts Academy"
+                    }
+                  },
+                  "field_media_image": [
+                    {
+                      "target_id": 948,
+                      "alt": "Certificate in Wine Business Management",
+                      "title": "",
+                      "width": 293,
+                      "height": 161,
+                      "target_type": "file",
+                      "target_uuid": "bfed6ffd-8215-4c66-a38d-fa14c60cdc53",
+                      "url": "http://caa.drautadev.com/sites/default/files/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-05/menu-caa-certificate-wine-business-management.jpg?h=b0e0142d",
+                      "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-05/menu-caa-certificate-wine-business-management.jpg?h=b0e0142d",
+                      "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-05/menu-caa-certificate-wine-business-management.jpg?h=b0e0142d",
+                      "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-05/menu-caa-certificate-wine-business-management.jpg?h=b0e0142d",
+                      "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-05/menu-caa-certificate-wine-business-management.jpg",
+                      "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-05/menu-caa-certificate-wine-business-management.jpg"
+                    }
+                  ],
+                  "field_revised": [
+                    "1"
+                  ],
+                  "field_type": [
+                    "menu"
+                  ],
+                  "field_web": [
+                    "3"
+                  ]
+                }
+              ],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            }
+          ]
+        },
+        {
+          "key": "41104a05-8d0f-4199-b7c0-ae608630c54b",
+          "title": "Offerings",
+          "description": null,
+          "uri": "node/471",
+          "alias": "nolink",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/nolink",
+          "relative": "/en/nolink",
+          "existing": true,
+          "weight": "-49",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "cf289175-5469-4688-874e-2adafcd5a542",
+          "options": {
+            "attributes": {
+              "class": [
+                "offerings"
+              ]
+            }
+          },
+          "field_image": [],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": [],
+          "below": [
+            {
+              "key": "0acef787-0a8d-4cfb-aa50-0e3175e1e4c5",
+              "title": "Career services",
+              "description": null,
+              "uri": "node/130",
+              "alias": "culinary-courses/career-services",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/career-services",
+              "relative": "/en/culinary-courses/career-services",
+              "existing": true,
+              "weight": "-50",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "b015e24c-14fa-4950-9803-64894efc7d34",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            },
+            {
+              "key": "acc0c42f-d68b-408a-99e8-4968c1301707",
+              "title": "English Courses",
+              "description": null,
+              "uri": "node/407",
+              "alias": "program/english-course",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/program/english-course",
+              "relative": "/en/program/english-course",
+              "existing": true,
+              "weight": "-49",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "2b862d06-a826-4fd2-8c4c-1a6a55dc0402",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            },
+            {
+              "key": "9dfbda11-158b-4c7e-98e1-da3cab623602",
+              "title": "Quality Assurance",
+              "description": null,
+              "uri": "node/468",
+              "alias": "culinary-courses/accreditations-and-affiliations",
+              "external": false,
+              "absolute": "http://caa.drautadev.com/en/culinary-courses/accreditations-and-affiliations",
+              "relative": "/en/culinary-courses/accreditations-and-affiliations",
+              "existing": true,
+              "weight": "3",
+              "expanded": false,
+              "enabled": true,
+              "uuid": "d3a3bb06-9006-4c98-be15-c6dfcda9cd0f",
+              "options": {
+                "attributes": {
+                  "class": [
+                    ""
+                  ]
+                }
+              },
+              "field_image": [],
+              "bundle": [
+                {
+                  "target_id": "main-culinary-arts",
+                  "target_type": "menu",
+                  "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+                }
+              ],
+              "revision_user": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "b710ad82-2f1f-4b99-b743-482d8ff63e7f",
+      "title": "Campus",
+      "description": null,
+      "uri": "node/471",
+      "alias": "nolink",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/nolink",
+      "relative": false,
+      "existing": true,
+      "weight": "-48",
+      "expanded": true,
+      "enabled": true,
+      "uuid": "cf289175-5469-4688-874e-2adafcd5a542",
+      "options": {
+        "attributes": {
+          "class": [
+            ""
+          ]
+        }
+      },
+      "field_image": [],
+      "bundle": [
+        {
+          "target_id": "main-culinary-arts",
+          "target_type": "menu",
+          "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+        }
+      ],
+      "revision_user": [],
+      "below": [
+        {
+          "key": "3f4211d8-7c04-470c-ad74-7138edbbf8c0",
+          "title": "Le Bouveret",
+          "description": null,
+          "uri": "node/195",
+          "alias": "about-culinary-arts-academy/le-bouveret",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/about-culinary-arts-academy/le-bouveret",
+          "relative": "/en/about-culinary-arts-academy/le-bouveret",
+          "existing": true,
+          "weight": "-50",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "4a736843-e61b-4e48-bbe0-47e9fbdb6ab7",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                352
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "DIVERSE AND FLEXIBLE EDUCATION 2.png"
+              ],
+              "created": [
+                "2021-04-27T07:32:51+00:00"
+              ],
+              "changed": [
+                "2021-05-14T11:33:49+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 380,
+                  "alt": "Le Bouveret",
+                  "title": "",
+                  "width": 293,
+                  "height": 203,
+                  "target_type": "file",
+                  "target_uuid": "5cfbbef9-41c3-4828-9d6c-abc687a15864",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png?h=7f2ccbb7",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png?h=7f2ccbb7",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png?h=7f2ccbb7",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png?h=7f2ccbb7",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/DIVERSE%20AND%20FLEXIBLE%20EDUCATION%202.png"
+                }
+              ],
+              "field_revised": [
+                "1"
+              ],
+              "field_type": [],
+              "field_web": []
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        },
+        {
+          "key": "d5f8ae47-3822-4fb9-8a9d-825122b48739",
+          "title": "Lucerne",
+          "description": null,
+          "uri": "node/258",
+          "alias": "about-culinary-arts-academy/lucerne",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/about-culinary-arts-academy/lucerne",
+          "relative": "/en/about-culinary-arts-academy/lucerne",
+          "existing": true,
+          "weight": "-49",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "44f787f6-5849-47a7-bd1d-f112d3ff872e",
+          "options": {
+            "attributes": {
+              "target": "_blank",
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                353
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600 1.png"
+              ],
+              "created": [
+                "2021-04-27T07:36:34+00:00"
+              ],
+              "changed": [
+                "2021-04-27T07:36:34+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 381,
+                  "alt": "Lucerne",
+                  "title": "",
+                  "width": 292,
+                  "height": 202,
+                  "target_type": "file",
+                  "target_uuid": "4d249c2c-ddcf-4f32-9ba4-ada519085e1b",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png?h=1294fa6a",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png?h=1294fa6a",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png?h=1294fa6a",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png?h=1294fa6a",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/2020_CAAS_BROCHURE_LOCATION_05_maxWidth_1600_maxHeight_1600%201.png"
+                }
+              ],
+              "field_revised": [],
+              "field_type": [],
+              "field_web": []
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        },
+        {
+          "key": "52140b93-fe3e-469e-b87f-6203c2d09912",
+          "title": "Brig",
+          "description": null,
+          "uri": "node/196",
+          "alias": "about-culinary-arts-academy/brig",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/about-culinary-arts-academy/brig",
+          "relative": "/en/about-culinary-arts-academy/brig",
+          "existing": true,
+          "weight": "-48",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "269422f1-4d2a-4584-828c-e42acb175413",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                354
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "brig.png"
+              ],
+              "created": [
+                "2021-04-27T07:37:40+00:00"
+              ],
+              "changed": [
+                "2021-05-14T11:33:37+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 382,
+                  "alt": "Brig",
+                  "title": "",
+                  "width": 293,
+                  "height": 203,
+                  "target_type": "file",
+                  "target_uuid": "ad7951af-5285-4707-8c87-c8a9f9edb1f2",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/brig.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/brig.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/brig.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/brig.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/brig.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/brig.png?h=68aea883",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/brig.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/brig.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/brig.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/brig.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/brig.png?h=68aea883",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/brig.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/brig.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/brig.png?h=68aea883",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/brig.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/brig.png?h=68aea883",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/brig.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/brig.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/brig.png"
+                }
+              ],
+              "field_revised": [
+                "1"
+              ],
+              "field_type": [],
+              "field_web": []
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        }
+      ]
+    },
+    {
+      "key": "68626715-9d67-4495-9ad3-0133661d0a9a",
+      "title": "Student life",
+      "description": null,
+      "uri": "node/134",
+      "alias": "study-cooking-in-switzerland",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/study-cooking-in-switzerland",
+      "relative": "/en/study-cooking-in-switzerland",
+      "existing": true,
+      "weight": "-47",
+      "expanded": false,
+      "enabled": true,
+      "uuid": "7732872f-484b-49f6-ab1a-5eaa6eda812b",
+      "options": {
+        "attributes": {
+          "class": [
+            ""
+          ]
+        }
+      },
+      "field_image": [],
+      "bundle": [
+        {
+          "target_id": "main-culinary-arts",
+          "target_type": "menu",
+          "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+        }
+      ],
+      "revision_user": []
+    },
+    {
+      "key": "535e1f16-2a3a-4cb9-bff7-0017a290c8b4",
+      "title": "Admissions",
+      "description": null,
+      "uri": "node/135",
+      "alias": "admissions",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/admissions",
+      "relative": "/en/admissions",
+      "existing": true,
+      "weight": "-46",
+      "expanded": false,
+      "enabled": true,
+      "uuid": "b3ed5c5f-fbc0-4fd3-924c-1d98b9f78bdf",
+      "options": {
+        "attributes": {
+          "target": "_blank",
+          "class": [
+            ""
+          ]
+        }
+      },
+      "field_image": [],
+      "bundle": [
+        {
+          "target_id": "main-culinary-arts",
+          "target_type": "menu",
+          "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+        }
+      ],
+      "revision_user": []
+    },
+    {
+      "key": "5c82d2f7-db1a-4b3d-bea6-b6a8a2a97608",
+      "title": "News & events",
+      "description": null,
+      "uri": "node/471",
+      "alias": "nolink",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/nolink",
+      "relative": false,
+      "existing": true,
+      "weight": "-45",
+      "expanded": true,
+      "enabled": true,
+      "uuid": "cf289175-5469-4688-874e-2adafcd5a542",
+      "options": {
+        "attributes": {
+          "class": [
+            ""
+          ]
+        }
+      },
+      "field_image": [],
+      "bundle": [
+        {
+          "target_id": "main-culinary-arts",
+          "target_type": "menu",
+          "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+        }
+      ],
+      "revision_user": [],
+      "below": [
+        {
+          "key": "605e11e1-73cb-4246-af5e-0ac0edfa0642",
+          "title": "News",
+          "description": null,
+          "uri": "node/260",
+          "alias": "news-1",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/news",
+          "relative": "/en/news",
+          "existing": true,
+          "weight": "-50",
+          "expanded": true,
+          "enabled": true,
+          "uuid": "9dd08c0f-0dd6-43f9-9f2f-80a43cefc246",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                373
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "CAA - Chef Series - Vladimir Mukhin 49_scale_60_ppi_120_quality_100 1 (1).png"
+              ],
+              "created": [
+                "2021-04-29T07:50:24+00:00"
+              ],
+              "changed": [
+                "2021-05-14T11:29:25+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 408,
+                  "alt": "CAA News",
+                  "title": "",
+                  "width": 293,
+                  "height": 203,
+                  "target_type": "file",
+                  "target_uuid": "f7ebb098-d1d7-470b-8056-8471d670c2fc",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png?h=f191d9fc",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png?h=f191d9fc",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png?h=f191d9fc",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png?h=f191d9fc",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/CAA%20-%20Chef%20Series%20-%20Vladimir%20Mukhin%2049_scale_60_ppi_120_quality_100%201%20%281%29.png"
+                }
+              ],
+              "field_revised": [
+                "1"
+              ],
+              "field_type": [],
+              "field_web": [
+                "3"
+              ]
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        },
+        {
+          "key": "0217bd0d-b3bb-4257-a8d1-15da9c2b4276",
+          "title": "Events",
+          "description": null,
+          "uri": "node/259",
+          "alias": "events-2",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/events",
+          "relative": "/en/events",
+          "existing": true,
+          "weight": "-49",
+          "expanded": true,
+          "enabled": true,
+          "uuid": "9775c8ac-bd3f-481f-9332-97ab165dffa8",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [
+            {
+              "mid": [
+                374
+              ],
+              "langcode": [
+                "en"
+              ],
+              "bundle": [
+                {
+                  "target_id": "image",
+                  "target_type": "media_type",
+                  "target_uuid": "0a2c6e9a-cf1f-4514-bdb6-90265c99a08e"
+                }
+              ],
+              "status": [
+                true
+              ],
+              "name": [
+                "12 1.png"
+              ],
+              "created": [
+                "2021-04-29T07:50:56+00:00"
+              ],
+              "changed": [
+                "2021-04-29T07:50:56+00:00"
+              ],
+              "default_langcode": [
+                true
+              ],
+              "metatag": {
+                "value": {
+                  "canonical_url": "http://caa.drautadev.com/en/api/menu_items_custom/main-culinary-arts",
+                  "title": "| Culinary Arts Academy"
+                }
+              },
+              "field_media_image": [
+                {
+                  "target_id": 409,
+                  "alt": "CAA Events",
+                  "title": "",
+                  "width": 292,
+                  "height": 202,
+                  "target_type": "file",
+                  "target_uuid": "b15b7ad5-ad45-4974-91a3-1258a8dd189d",
+                  "url": "http://caa.drautadev.com/sites/default/files/2021-04/12%201.png",
+                  "402x490": "http://caa.drautadev.com/sites/default/files/styles/402x490/public/2021-04/12%201.png",
+                  "475x475": "http://caa.drautadev.com/sites/default/files/styles/475x475/public/2021-04/12%201.png",
+                  "campus": "http://caa.drautadev.com/sites/default/files/styles/campus/public/2021-04/12%201.png",
+                  "hero": "http://caa.drautadev.com/sites/default/files/styles/hero/public/2021-04/12%201.png",
+                  "hero_mobile": "http://caa.drautadev.com/sites/default/files/styles/hero_mobile/public/2021-04/12%201.png?h=1294fa6a",
+                  "large": "http://caa.drautadev.com/sites/default/files/styles/large/public/2021-04/12%201.png",
+                  "listteaser": "http://caa.drautadev.com/sites/default/files/styles/listteaser/public/2021-04/12%201.png",
+                  "logo": "http://caa.drautadev.com/sites/default/files/styles/logo/public/2021-04/12%201.png",
+                  "medium": "http://caa.drautadev.com/sites/default/files/styles/medium/public/2021-04/12%201.png",
+                  "menu": "http://caa.drautadev.com/sites/default/files/styles/menu/public/2021-04/12%201.png?h=1294fa6a",
+                  "ourschools": "http://caa.drautadev.com/sites/default/files/styles/ourschools/public/2021-04/12%201.png",
+                  "programs": "http://caa.drautadev.com/sites/default/files/styles/programs/public/2021-04/12%201.png",
+                  "speakers": "http://caa.drautadev.com/sites/default/files/styles/speakers/public/2021-04/12%201.png?h=1294fa6a",
+                  "storieteaser": "http://caa.drautadev.com/sites/default/files/styles/storieteaser/public/2021-04/12%201.png",
+                  "team": "http://caa.drautadev.com/sites/default/files/styles/team/public/2021-04/12%201.png?h=1294fa6a",
+                  "teaser": "http://caa.drautadev.com/sites/default/files/styles/teaser/public/2021-04/12%201.png",
+                  "text_media": "http://caa.drautadev.com/sites/default/files/styles/text_media/public/2021-04/12%201.png",
+                  "thumbnail_in_admin_views": "http://caa.drautadev.com/sites/default/files/styles/thumbnail_in_admin_views/public/2021-04/12%201.png"
+                }
+              ],
+              "field_revised": [],
+              "field_type": [],
+              "field_web": []
+            }
+          ],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        },
+        {
+          "key": "f7d46bc1-c812-46ae-971f-45120dbd30bd",
+          "title": "Learn more",
+          "description": "COVID-19: News and updates",
+          "uri": "node/146",
+          "alias": "covid-measures-at-culinary-arts-academy",
+          "external": false,
+          "absolute": "http://caa.drautadev.com/en/covid-measures-at-culinary-arts-academy",
+          "relative": "/en/covid-measures-at-culinary-arts-academy",
+          "existing": true,
+          "weight": "-48",
+          "expanded": false,
+          "enabled": true,
+          "uuid": "507f5164-be2a-4d0e-acdf-406d9491a9d9",
+          "options": {
+            "attributes": {
+              "class": [
+                ""
+              ]
+            }
+          },
+          "field_image": [],
+          "bundle": [
+            {
+              "target_id": "main-culinary-arts",
+              "target_type": "menu",
+              "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+            }
+          ],
+          "revision_user": []
+        }
+      ]
+    },
+    {
+      "key": "5038f8a6-30ba-4b5a-9f6e-5768ce724ec3",
+      "title": "Alumni",
+      "description": null,
+      "uri": "node/143",
+      "alias": "culinary-arts-academy-alumni",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/culinary-arts-academy-alumni",
+      "relative": "/en/culinary-arts-academy-alumni",
+      "existing": true,
+      "weight": "-44",
+      "expanded": false,
+      "enabled": true,
+      "uuid": "f628846e-9f8f-42fc-854a-5a80f6cede19",
+      "options": {
+        "attributes": {
+          "target": "_blank",
+          "class": [
+            ""
+          ]
+        }
+      },
+      "field_image": [],
+      "bundle": [
+        {
+          "target_id": "main-culinary-arts",
+          "target_type": "menu",
+          "target_uuid": "81cbd454-85b8-4640-9cb7-f0009a6dddd5"
+        }
+      ],
+      "revision_user": []
+    }
+  ],
+  "headersecondary": [
+    {
+      "key": "2fd5ce88-67fd-4d14-a4db-bf1860f6fc23",
+      "title": "Brochure",
+      "description": null,
+      "uri": "node/192",
+      "alias": "download-brochure",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/download-brochure",
+      "relative": "/en/download-brochure",
+      "existing": true,
+      "weight": "-50",
+      "expanded": false,
+      "enabled": true,
+      "uuid": "55d7a1e5-94ee-4b63-82d9-bbbfe80642e9",
+      "options": {
+        "attributes": {
+          "class": [
+            "button-file"
+          ]
+        }
+      },
+      "bundle": [
+        {
+          "target_id": "header-buttons-caa",
+          "target_type": "menu",
+          "target_uuid": "4f6c75d4-9788-4a57-8fbb-1bf0ea268fce"
+        }
+      ],
+      "revision_user": []
+    },
+    {
+      "key": "183a3b48-ad7a-49b7-b6be-7c2d0b81d8e5",
+      "title": "Contact",
+      "description": null,
+      "uri": "node/191",
+      "alias": "node/191",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/contact",
+      "relative": "/en/contact",
+      "existing": true,
+      "weight": "-49",
+      "expanded": false,
+      "enabled": true,
+      "uuid": "d5e26129-534c-4b43-80f9-535c20d79f48",
+      "options": {
+        "attributes": {
+          "class": [
+            "button-transparent"
+          ]
+        }
+      },
+      "bundle": [
+        {
+          "target_id": "header-buttons-caa",
+          "target_type": "menu",
+          "target_uuid": "4f6c75d4-9788-4a57-8fbb-1bf0ea268fce"
+        }
+      ],
+      "revision_user": []
+    },
+    {
+      "key": "adb7e1ab-6988-4490-a0d2-28eab217095e",
+      "title": "Apply now",
+      "description": null,
+      "uri": "node/279",
+      "alias": "apply-culinary-arts-academy",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/apply-culinary-arts-academy",
+      "relative": "/en/apply-culinary-arts-academy",
+      "existing": true,
+      "weight": "-48",
+      "expanded": false,
+      "enabled": true,
+      "uuid": "2daf8527-9ad0-415f-b612-22496656cc8c",
+      "options": {
+        "attributes": {
+          "class": [
+            "button-red"
+          ]
+        }
+      },
+      "bundle": [
+        {
+          "target_id": "header-buttons-caa",
+          "target_type": "menu",
+          "target_uuid": "4f6c75d4-9788-4a57-8fbb-1bf0ea268fce"
+        }
+      ],
+      "revision_user": []
+    }
+  ],
+  "headertopmost": [
+    {
+      "key": "ab0f6957-cf3e-4d35-a656-f612819b21a1",
+      "title": "Search",
+      "description": null,
+      "uri": "node/471",
+      "alias": "nolink",
+      "external": false,
+      "absolute": "http://caa.drautadev.com/en/nolink",
+      "relative": false,
+      "existing": true,
+      "weight": "0",
+      "expanded": false,
+      "enabled": true,
+      "uuid": "cf289175-5469-4688-874e-2adafcd5a542",
+      "options": {
+        "attributes": {
+          "class": [
+            "search-button"
+          ]
+        }
+      },
+      "bundle": [
+        {
+          "target_id": "header-topmost-caa",
+          "target_type": "menu",
+          "target_uuid": "406b3389-4e87-4cd4-a5c8-9b58529c113a"
+        }
+      ],
+      "revision_user": []
+    },
+    {
+      "key": "a0c989e6-a22c-4fb3-ba0f-e7ed97a4c02e",
+      "title": "Student Portal",
+      "description": null,
+      "uri": "https://students.seg-ch.com/student/Identity/Account/Login?ReturnUrl=%2Fstudent%2F",
+      "alias": null,
+      "external": true,
+      "absolute": "https://students.seg-ch.com/student/Identity/Account/Login?ReturnUrl=%2Fstudent%2F",
+      "relative": "https://students.seg-ch.com/student/Identity/Account/Login?ReturnUrl=/student/",
+      "existing": true,
+      "weight": "0",
+      "expanded": false,
+      "enabled": true,
+      "uuid": null,
+      "options": {
+        "attributes": {
+          "target": "_blank",
+          "class": [
+            "student-portal"
+          ]
+        },
+        "external": true
+      },
+      "bundle": [
+        {
+          "target_id": "header-topmost-caa",
+          "target_type": "menu",
+          "target_uuid": "406b3389-4e87-4cd4-a5c8-9b58529c113a"
+        }
+      ],
+      "revision_user": []
+    }
+  ]
+}
